@@ -1,6 +1,4 @@
-start-git | Kleine Tutorials für neue Git/Github Anwender.
-----------------------------------------------------------
-
+##### start-git | Kleine Tutorials für neue Git/Github Anwender. #####
 
 [iGit was ist denn dass?][1]
 
