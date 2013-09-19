@@ -1,8 +1,8 @@
 Igit! Was ist denn dass?
 ========================
 
-***Git*** ([ɡɪt], engl. Blödmann) ist eine freie Software zur verteilten Versionsverwaltung von Dateien,
-die ursprünglich für die Quellcode-Verwaltung des Linux-Kernels entwickelt wurde. (wikipedia)
+~~~ txt***Git*** ([ɡɪt], engl. Blödmann) ist eine freie Software zur verteilten Versionsverwaltung von Dateien,
+die ursprünglich für die Quellcode-Verwaltung des Linux-Kernels entwickelt wurde. (wikipedia) ~~~
 
 Das Prinzip einer Versionsverwaltung ist einfach.
 Alles wird lokal gespeichert und mit einem Server wie Github sinchronisiert.
