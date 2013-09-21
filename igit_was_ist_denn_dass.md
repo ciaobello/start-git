@@ -41,7 +41,7 @@ Damit wir nun Mit einem Projekt starten können geben wir folgendes im Terminal 
 
 ```
 
-$ git init project  (porject ist freiwählbarer Name für welchen eine Verzeichnis erstellt wird)
+$ git init project  (project ist freiwählbarer Name für welchen eine Verzeichnis erstellt wird)
 $ cd project
 
 $ touch README.md (erstellen einer Datei)
